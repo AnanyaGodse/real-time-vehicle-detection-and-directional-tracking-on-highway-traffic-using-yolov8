@@ -17,6 +17,10 @@
  ● To display the FPS (Frames Per Second) to assess real-time processing
  performance.
 
+ Input Video (Screenshots):
+
+
+
  #### Code Structure and Components:
  The project consists of two files: main.py and tracker.py.
  
