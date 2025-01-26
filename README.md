@@ -17,18 +17,25 @@
  ● To display the FPS (Frames Per Second) to assess real-time processing
  performance.
 
- Input Video (Screenshots):
+ #### Input Video (Screenshots):
+ 
+![input video screenshot 1](https://github.com/user-attachments/assets/67b47567-7e95-4f15-bf85-99a5346a128d)
 
+![input video screenshot 2](https://github.com/user-attachments/assets/ad6ca248-4a3e-497a-a464-5722e25d790e)
 
+#### Output Video (Screenshots):
 
- #### Code Structure and Components:
- The project consists of two files: main.py and tracker.py.
+![output video screenshot](https://github.com/user-attachments/assets/58a5e661-c05e-4d8a-84e3-b306f54215ff)
+
+![output video screenshot 2](https://github.com/user-attachments/assets/67db927a-76d2-44e5-9be4-e7995850448b)
+
+#### Code Structure and Components:
+The project consists of two files: main.py and tracker.py.
  
  ● YOLO Model Loading: The YOLOv8 pre-trained model is loaded for object
  detection, enabling accurate and fast detection of vehicles in each frame.
  
- ● Mouse Position Tracking: A utility to track the mouse position over the
- OpenCV window for testing and debugging.
+ ● Mouse Position Tracking: A utility to track the mouse position over the OpenCV window for testing and debugging.
  
  ● Vehicle Tracking: Custom tracking logic with unique IDs for each detected
  vehicle using a Tracker class, which updates vehicle positions across
