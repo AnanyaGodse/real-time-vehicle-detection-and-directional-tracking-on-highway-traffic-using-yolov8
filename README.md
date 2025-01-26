@@ -47,4 +47,10 @@ The project consists of two files: main.py and tracker.py.
  ● FPS Calculation: The FPS calculation displays the frame processing speed on
  each frame to assess system performance in real-time.
 
+ #### Results:
+ The system performs well in detecting and distinguishing between vehicle types in real-time. On average, the FPS was around 10.
+
+ Adapted from this tutorial - https://youtu.be/DXqdjWndooI?feature=shared
+
+
  
